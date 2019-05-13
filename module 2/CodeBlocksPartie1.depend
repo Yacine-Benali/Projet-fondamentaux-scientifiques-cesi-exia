@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1542450764 source:c:\users\yacine\desktop\projet 1\codeblockspartie1\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1542447438 c:\users\yacine\desktop\projet 1\codeblockspartie1\generationcode.h
+
+1542443251 source:c:\users\yacine\desktop\projet 1\codeblockspartie1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu1.h"
+
+1542443643 c:\users\yacine\desktop\projet 1\codeblockspartie1\menu1.h
+
+1542447439 source:c:\users\yacine\desktop\projet 1\codeblockspartie1\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1542443251 c:\users\yacine\desktop\projet 1\codeblockspartie1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu1.h"
+
+1542188260 c:\users\yacine\desktop\projet 1\codeblockspartie1\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
