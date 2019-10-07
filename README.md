@@ -5,7 +5,7 @@ original du pouls à travers un cœur de LEDS rouges. (Nous
 souhaitons qu’un ensemble de LEDs (formant un cœur) soit
 allumé). puis traiter ces données (trie,recherche,valeur moyenne...)
 
-##### si vous ete un etudiant a l'exia et vous voulez utilisze ce projet comme reference consider donnes un star (etoile) a le projet
+##### si vous ete un etudiant a l'exia et vous voulez utilisze ce projet comme reference considerer donnes un star (etoile) a le projet
 lire le document du projet pour une explication 
 ![alt text](https://github.com/YacineMedBenali/Projet-Fondamentaux-scientifiques/blob/master/picture%20demonstration.png)
 
